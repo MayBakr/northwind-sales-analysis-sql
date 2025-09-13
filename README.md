@@ -41,8 +41,9 @@ This project provides a detailed, data-driven analysis of Northwind sales data t
 - `Dataset/` – Northwind database used for analysis. [Link to dataset if not included] 
 
 ## Usage
-- Clone the repository and run SQL scripts in any SQL environment connected to the Northwind database.  
-- Review queries to understand customer, product, order, and employee analyses.  
+- Clone the repository and open the SQL scripts in any **SQLite** environment.  
+- Run the scripts on the Northwind database to explore customer, product, order, and employee analyses.  
+- Review queries to understand RFM segmentation, product performance evaluation, and operational insights.
 
 ## Learning Outcomes
 - Hands-on experience with SQL for real-world business data analysis.  
