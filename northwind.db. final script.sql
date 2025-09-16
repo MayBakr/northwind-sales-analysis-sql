@@ -19,7 +19,7 @@ FROM Orders
 GROUP BY customerid
 ORDER BY Recency_Days
     
---- 1.1.b: Frequency: Total number of orders (volumn). 
+--- 1.1.b: Frequency: Total number of orders (volumn)
 select 
 customerid, 
 count(orderid) as Frequency
