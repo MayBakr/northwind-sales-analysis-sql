@@ -37,8 +37,8 @@ This project provides a detailed, data-driven analysis of Northwind sales data t
 
 ## Project Structure
 - `SQL_Code/` – Contains all SQL scripts used for analysis.  
-- `Presentation/` – Project presentation summarizing key findings and insights. [Link to presentation if hosted externally]  
-- `Dataset/` – Northwind database used for analysis. [Link to dataset if not included] 
+- `Presentation/` – Project presentation summarizing key findings and insights.  
+- Dataset – The analysis was performed on the **Northwind sample database**, available in SQLite (e.g., via [SQLiteOnline](https://sqliteonline.com/)).
 
 ## Usage
 - Clone the repository and open the SQL scripts in any **SQLite** environment.  
